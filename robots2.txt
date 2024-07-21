@@ -1,0 +1,14 @@
+User-agent: *
+
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /wp-admin/
+Disallow: /widgets/
+Disallow: /page
+Disallow: /wp_cron.php
+Disallow: /xmlrpc.php
+
+
+Sitemap: https://gramentheme.com/sitemap-aov-index.xml
+Sitemap: https://gramentheme.com/sitemap-quv-index.xml
